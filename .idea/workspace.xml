@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e4b4fb95-fd77-47ed-bf93-e40ade2bcc19" name="Default Changelist" comment="initial Project." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="d4e97993-735f-48e2-b76f-0b0bec9c35cb" />
+  <component name="ProjectId" id="1fTaItFtPtp5jtVREQDmeiBCBbq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="S-RIM" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="S-RIM" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OneDrive - Siemens Healthineers\1_External Training\2_Python\PycharmProjects\S-RIM" />
+      <recent name="D:\OneDrive - Siemens Healthineers\1_External Training\2_Python\PycharmProjects\S-RIM\Stock_Analysis\Read SQL" />
+      <recent name="D:\OneDrive - Siemens Healthineers\1_External Training\2_Python\PycharmProjects\S-RIM\Example" />
+      <recent name="D:\OneDrive - Siemens Healthineers\1_External Training\2_Python\PycharmProjects\S-RIM\Stock_Analysis" />
+      <recent name="D:\OneDrive - Siemens Healthineers\1_External Training\2_Python\PycharmProjects\S-RIM\def_param" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OneDrive - Siemens Healthineers\1_External Training\2_Python\PycharmProjects\S-RIM" />
+      <recent name="D:\OneDrive - Siemens Healthineers\1_External Training\2_Python\PycharmProjects\S-RIM\Stock_Analysis" />
+      <recent name="D:\OneDrive - Siemens Healthineers\1_External Training\2_Python\PycharmProjects\S-RIM\Stock_Analysis\Read SQL" />
+      <recent name="D:\OneDrive - Siemens Healthineers\1_External Training\2_Python\PycharmProjects\S-RIM\Example" />
+      <recent name="D:\OneDrive - Siemens Healthineers\1_External Training\2_Python\PycharmProjects\S-RIM\Example\Merge BW year and quarter" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Analysis_S-RIM (1)">
+    <configuration name="Analysis_S-RIM (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="S-RIM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Analysis_S-RIM.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Analysis_S-RIM" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="S-RIM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stock_Analysis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\OneDrive - Siemens Healthineers\1_External Training\2_Python\PycharmProjects\S-RIM\Analysis_S-RIM.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Stock_main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="S-RIM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stock_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="finance_read" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="S-RIM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stock_Analysis/Read SQL" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stock_Analysis/Read SQL/finance_read.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_price" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="S-RIM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/def_param" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/def_param/get_price.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Analysis_S-RIM (1)" />
+        <item itemvalue="Python.Stock_main" />
+        <item itemvalue="Python.Analysis_S-RIM" />
+        <item itemvalue="Python.finance_read" />
+        <item itemvalue="Python.get_price" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4b4fb95-fd77-47ed-bf93-e40ade2bcc19" name="Default Changelist" comment="" />
+      <created>1596244460459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596244460459</updated>
+      <workItem from="1597843018360" duration="2052000" />
+      <workItem from="1597931032611" duration="3157000" />
+      <workItem from="1597999396239" duration="687000" />
+      <workItem from="1598016333815" duration="3540000" />
+      <workItem from="1598069245324" duration="1357000" />
+      <workItem from="1598175481057" duration="3554000" />
+      <workItem from="1598192524293" duration="1213000" />
+      <workItem from="1598344147839" duration="2853000" />
+      <workItem from="1598417188779" duration="5153000" />
+      <workItem from="1598708291375" duration="11289000" />
+      <workItem from="1598786158724" duration="7909000" />
+      <workItem from="1599043863026" duration="4247000" />
+      <workItem from="1599103363273" duration="10307000" />
+      <workItem from="1599208633415" duration="972000" />
+      <workItem from="1601361271500" duration="470000" />
+      <workItem from="1606121043575" duration="210000" />
+      <workItem from="1606914972447" duration="3762000" />
+      <workItem from="1607001911634" duration="3264000" />
+      <workItem from="1607490919681" duration="8264000" />
+      <workItem from="1609207875967" duration="17596000" />
+      <workItem from="1609287103617" duration="17540000" />
+      <workItem from="1609857488690" duration="1976000" />
+      <workItem from="1616768486984" duration="1203000" />
+      <workItem from="1620700268027" duration="331000" />
+      <workItem from="1621323482864" duration="35038000" />
+      <workItem from="1622112331502" duration="1886000" />
+      <workItem from="1622282759660" duration="730000" />
+      <workItem from="1623937368258" duration="1626000" />
+      <workItem from="1625206011222" duration="3067000" />
+      <workItem from="1625982885674" duration="761000" />
+      <workItem from="1628050049119" duration="1347000" />
+      <workItem from="1630072013391" duration="979000" />
+      <workItem from="1630917816466" duration="14000" />
+      <workItem from="1631248071380" duration="152000" />
+      <workItem from="1632289979647" duration="2654000" />
+      <workItem from="1633008584024" duration="1777000" />
+      <workItem from="1648380079264" duration="1395000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+</project>
