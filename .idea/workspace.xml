@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4b4fb95-fd77-47ed-bf93-e40ade2bcc19" name="Default Changelist" comment="initial Project." />
+    <list default="true" id="e4b4fb95-fd77-47ed-bf93-e40ade2bcc19" name="Default Changelist" comment="initial Project.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,17 +62,17 @@
   </component>
   <component name="RunManager" selected="Python.Analysis_S-RIM (1)">
     <configuration name="Analysis_S-RIM (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="S-RIM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\inseo\AppData\Local\Programs\Python\Python37\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Analysis_S-RIM.py" />
       <option name="PARAMETERS" value="" />
@@ -104,17 +106,17 @@
       <method v="2" />
     </configuration>
     <configuration name="Stock_main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="S-RIM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\inseo\AppData\Local\Programs\Python\Python37\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stock_main.py" />
       <option name="PARAMETERS" value="" />
@@ -223,8 +225,22 @@
       <workItem from="1631248071380" duration="152000" />
       <workItem from="1632289979647" duration="2654000" />
       <workItem from="1633008584024" duration="1777000" />
-      <workItem from="1648380079264" duration="1395000" />
+      <workItem from="1648380079264" duration="3023000" />
+      <workItem from="1648436552596" duration="1072000" />
+      <workItem from="1648457311927" duration="1790000" />
+      <workItem from="1648513907394" duration="613000" />
+      <workItem from="1648536951116" duration="606000" />
+      <workItem from="1651135347317" duration="860000" />
+      <workItem from="1651416388166" duration="138000" />
     </task>
+    <task id="LOCAL-00001" summary="initial Project.">
+      <created>1648381737266</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648381737266</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,12 +252,17 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="HEAD" />
+                        <option value="S-RIM/master" />
                       </list>
                     </value>
                   </entry>
@@ -252,10 +273,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="initial Project." />
+    <option name="LAST_COMMIT_MESSAGE" value="initial Project." />
   </component>
 </project>
